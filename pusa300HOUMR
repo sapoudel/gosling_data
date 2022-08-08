@@ -1,61 +1,61 @@
-,chr,source,feature,start,stop,x,strand,y,feat
-0,CP000731.1,Genbank,region,1,27041,.,+,.,ID=CP000731.1:1..27041;Dbxref=taxon:451516;Is_circular=true;Name=pUSA300HOUMR;gbkey=Src;genome=plasmid;mol_type=genomic DNA;note=derived from methicillin-resistant clonal population USA300;plasmid-name=pUSA300HOUMR;strain=TCH1516;sub-species=aureus
-1,CP000731.1,Genbank,gene,232,1215,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0001;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0001
-2,CP000731.1,Genbank,CDS,232,1215,.,+,0,ID=cds-ABX30704.1;Parent=gene-USA300HOU_pUSA300HOUMR0001;Dbxref=NCBI_GP:ABX30704.1;Name=ABX30704.1;gbkey=CDS;gene=repA;locus_tag=USA300HOU_pUSA300HOUMR0001;product=replication protein A;protein_id=ABX30704.1;transl_table=11
-3,CP000731.1,Genbank,pseudogene,1235,1516,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0002;Name=USA300HOU_pUSA300HOUMR0002;description=replication protein;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0002;pseudo=true
-4,CP000731.1,Genbank,gene,2071,2220,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0003;Name=USA300HOU_pUSA300HOUMR0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0003
-5,CP000731.1,Genbank,CDS,2071,2220,.,+,0,ID=cds-ABX30705.1;Parent=gene-USA300HOU_pUSA300HOUMR0003;Dbxref=NCBI_GP:ABX30705.1;Name=ABX30705.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0003;product=hypothetical protein;protein_id=ABX30705.1;transl_table=11
-6,CP000731.1,Genbank,gene,2388,3080,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0004;Name=USA300HOU_pUSA300HOUMR0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0004
-7,CP000731.1,Genbank,CDS,2388,3080,.,-,0,ID=cds-ABX30706.1;Parent=gene-USA300HOU_pUSA300HOUMR0004;Dbxref=NCBI_GP:ABX30706.1;Name=ABX30706.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0004;product=hypothetical protein;protein_id=ABX30706.1;transl_table=11
-8,CP000731.1,Genbank,gene,3190,3384,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0005;Name=USA300HOU_pUSA300HOUMR0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0005
-9,CP000731.1,Genbank,CDS,3190,3384,.,+,0,ID=cds-ABX30707.1;Parent=gene-USA300HOU_pUSA300HOUMR0005;Dbxref=NCBI_GP:ABX30707.1;Name=ABX30707.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0005;product=hypothetical protein;protein_id=ABX30707.1;transl_table=11
-10,CP000731.1,Genbank,gene,3868,4035,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0006;Name=USA300HOU_pUSA300HOUMR0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0006
-11,CP000731.1,Genbank,CDS,3868,4035,.,+,0,ID=cds-ABX30708.1;Parent=gene-USA300HOU_pUSA300HOUMR0006;Dbxref=NCBI_GP:ABX30708.1;Name=ABX30708.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0006;product=hypothetical protein;protein_id=ABX30708.1;transl_table=11
-12,CP000731.1,Genbank,gene,4500,5117,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0007;Name=cadR;gbkey=Gene;gene=cadR;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0007
-13,CP000731.1,Genbank,CDS,4500,5117,.,+,0,ID=cds-ABX30709.1;Parent=gene-USA300HOU_pUSA300HOUMR0007;Dbxref=NCBI_GP:ABX30709.1;Name=ABX30709.1;gbkey=CDS;gene=cadR;locus_tag=USA300HOU_pUSA300HOUMR0007;product=cadmium binding protein;protein_id=ABX30709.1;transl_table=11
-14,CP000731.1,Genbank,gene,5136,5483,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0008;Name=cadX;gbkey=Gene;gene=cadX;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0008
-15,CP000731.1,Genbank,CDS,5136,5483,.,+,0,ID=cds-ABX30710.1;Parent=gene-USA300HOU_pUSA300HOUMR0008;Dbxref=NCBI_GP:ABX30710.1;Name=ABX30710.1;gbkey=CDS;gene=cadX;locus_tag=USA300HOU_pUSA300HOUMR0008;product=cadmium efflux regulator;protein_id=ABX30710.1;transl_table=11
-16,CP000731.1,Genbank,pseudogene,5904,6847,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0009;Name=USA300HOU_pUSA300HOUMR0009;description=frameshift of alcohol dehydrogenase;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0009;pseudo=true
-17,CP000731.1,Genbank,gene,6971,7390,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0010;Name=USA300HOU_pUSA300HOUMR0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0010
-18,CP000731.1,Genbank,CDS,6971,7390,.,+,0,ID=cds-ABX30711.1;Parent=gene-USA300HOU_pUSA300HOUMR0010;Dbxref=NCBI_GP:ABX30711.1;Name=ABX30711.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0010;product=MarR family transcriptional regulator;protein_id=ABX30711.1;transl_table=11
-19,CP000731.1,Genbank,gene,7916,8761,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0011;Name=blaZ;gbkey=Gene;gene=blaZ;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0011
-20,CP000731.1,Genbank,CDS,7916,8761,.,-,0,ID=cds-ABX30712.1;Parent=gene-USA300HOU_pUSA300HOUMR0011;Dbxref=NCBI_GP:ABX30712.1;Name=ABX30712.1;gbkey=CDS;gene=blaZ;locus_tag=USA300HOU_pUSA300HOUMR0011;product=beta-lactamase;protein_id=ABX30712.1;transl_table=11
-21,CP000731.1,Genbank,gene,8868,10625,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0012;Name=blaR;gbkey=Gene;gene=blaR;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0012
-22,CP000731.1,Genbank,CDS,8868,10625,.,+,0,ID=cds-ABX30713.1;Parent=gene-USA300HOU_pUSA300HOUMR0012;Dbxref=NCBI_GP:ABX30713.1;Name=ABX30713.1;gbkey=CDS;gene=blaR;locus_tag=USA300HOU_pUSA300HOUMR0012;product=beta-lactamase regulator BlaR;protein_id=ABX30713.1;transl_table=11
-23,CP000731.1,Genbank,gene,10615,10995,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0013;Name=blaI;gbkey=Gene;gene=blaI;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0013
-24,CP000731.1,Genbank,CDS,10615,10995,.,+,0,ID=cds-ABX30714.1;Parent=gene-USA300HOU_pUSA300HOUMR0013;Dbxref=NCBI_GP:ABX30714.1;Name=ABX30714.1;gbkey=CDS;gene=blaI;locus_tag=USA300HOU_pUSA300HOUMR0013;product=beta-lactamase regulator BlaI;protein_id=ABX30714.1;transl_table=11
-25,CP000731.1,Genbank,gene,11259,11837,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0014;Name=USA300HOU_pUSA300HOUMR0014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0014
-26,CP000731.1,Genbank,CDS,11259,11837,.,+,0,ID=cds-ABX30715.1;Parent=gene-USA300HOU_pUSA300HOUMR0014;Dbxref=NCBI_GP:ABX30715.1;Name=ABX30715.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0014;product=recombinase;protein_id=ABX30715.1;transl_table=11
-27,CP000731.1,Genbank,gene,12060,12245,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0015;Name=USA300HOU_pUSA300HOUMR0015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0015
-28,CP000731.1,Genbank,CDS,12060,12245,.,-,0,ID=cds-ABX30716.1;Parent=gene-USA300HOU_pUSA300HOUMR0015;Dbxref=NCBI_GP:ABX30716.1;Name=ABX30716.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0015;product=hypothetical protein;protein_id=ABX30716.1;transl_table=11
-29,CP000731.1,Genbank,gene,12507,13181,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0016;Name=USA300HOU_pUSA300HOUMR0016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0016
-30,CP000731.1,Genbank,CDS,12507,13181,.,+,0,ID=cds-ABX30717.1;Parent=gene-USA300HOU_pUSA300HOUMR0016;Dbxref=NCBI_GP:ABX30717.1;Name=ABX30717.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0016;product=IS257 transposase;protein_id=ABX30717.1;transl_table=11
-31,CP000731.1,Genbank,pseudogene,13350,13921,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0017;Name=USA300HOU_pUSA300HOUMR0017;description=hypothetical protein;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0017;pseudo=true
-32,CP000731.1,Genbank,gene,14197,14991,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0018;Name=USA300HOU_pUSA300HOUMR0018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0018
-33,CP000731.1,Genbank,CDS,14197,14991,.,-,0,ID=cds-ABX30718.1;Parent=gene-USA300HOU_pUSA300HOUMR0018;Dbxref=NCBI_GP:ABX30718.1;Name=ABX30718.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0018;product=3'%2C5' aminoglycoside phosphotransferase;protein_id=ABX30718.1;transl_table=11
-34,CP000731.1,Genbank,gene,15084,15614,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0019;Name=USA300HOU_pUSA300HOUMR0019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0019
-35,CP000731.1,Genbank,CDS,15084,15614,.,-,0,ID=cds-ABX30719.1;Parent=gene-USA300HOU_pUSA300HOUMR0019;Dbxref=NCBI_GP:ABX30719.1;Name=ABX30719.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0019;product=strepthothricin acetyltransferase;protein_id=ABX30719.1;transl_table=11
-36,CP000731.1,Genbank,pseudogene,15611,16246,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0020;Name=USA300HOU_pUSA300HOUMR0020;description=aminoglycoside adenyltransferase;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0020;pseudo=true
-37,CP000731.1,Genbank,gene,16387,17061,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0021;Name=USA300HOU_pUSA300HOUMR0021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0021
-38,CP000731.1,Genbank,CDS,16387,17061,.,-,0,ID=cds-ABX30720.1;Parent=gene-USA300HOU_pUSA300HOUMR0021;Dbxref=NCBI_GP:ABX30720.1;Name=ABX30720.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0021;product=IS431 mec transposase;protein_id=ABX30720.1;transl_table=11
-39,CP000731.1,Genbank,pseudogene,17091,17294,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0022;Name=USA300HOU_pUSA300HOUMR0022;description=bacitracin resistance protein;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0022;pseudo=true
-40,CP000731.1,Genbank,gene,17308,18045,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0023;Name=USA300HOU_pUSA300HOUMR0023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0023
-41,CP000731.1,Genbank,CDS,17308,18045,.,-,0,ID=cds-ABX30721.1;Parent=gene-USA300HOU_pUSA300HOUMR0023;Dbxref=NCBI_GP:ABX30721.1;Name=ABX30721.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0023;product=bacitracin ABC ATP binding cassette transporter%2C membrane protein;protein_id=ABX30721.1;transl_table=11
-42,CP000731.1,Genbank,gene,18038,18958,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0024;Name=USA300HOU_pUSA300HOUMR0024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0024
-43,CP000731.1,Genbank,CDS,18038,18958,.,-,0,ID=cds-ABX30722.1;Parent=gene-USA300HOU_pUSA300HOUMR0024;Dbxref=NCBI_GP:ABX30722.1;Name=ABX30722.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0024;product=bacitracin ABC ATP binding cassette transporter%2C ABC protein;protein_id=ABX30722.1;transl_table=11
-44,CP000731.1,Genbank,pseudogene,19083,19964,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0025;Name=USA300HOU_pUSA300HOUMR0025;description=sensor histidine kinase;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0025;pseudo=true
-45,CP000731.1,Genbank,pseudogene,19961,20326,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0026;Name=USA300HOU_pUSA300HOUMR0026;description=response regulator;gbkey=Gene;gene_biotype=pseudogene;locus_tag=USA300HOU_pUSA300HOUMR0026;pseudo=true
-46,CP000731.1,Genbank,gene,20396,21070,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0027;Name=USA300HOU_pUSA300HOUMR0027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0027
-47,CP000731.1,Genbank,CDS,20396,21070,.,-,0,ID=cds-ABX30723.1;Parent=gene-USA300HOU_pUSA300HOUMR0027;Dbxref=NCBI_GP:ABX30723.1;Name=ABX30723.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0027;product=IS431mec transposase;protein_id=ABX30723.1;transl_table=11
-48,CP000731.1,Genbank,gene,21544,23010,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0028;Name=USA300HOU_pUSA300HOUMR0028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0028
-49,CP000731.1,Genbank,CDS,21544,23010,.,+,0,ID=cds-ABX30724.1;Parent=gene-USA300HOU_pUSA300HOUMR0028;Dbxref=NCBI_GP:ABX30724.1;Name=ABX30724.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0028;product=macrolide transporter;protein_id=ABX30724.1;transl_table=11
-50,CP000731.1,Genbank,gene,23109,24008,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0029;Name=USA300HOU_pUSA300HOUMR0029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0029
-51,CP000731.1,Genbank,CDS,23109,24008,.,+,0,ID=cds-ABX30725.1;Parent=gene-USA300HOU_pUSA300HOUMR0029;Dbxref=NCBI_GP:ABX30725.1;Name=ABX30725.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0029;product=macrolide 2'-phosphotransferase;protein_id=ABX30725.1;transl_table=11
-52,CP000731.1,Genbank,gene,24494,25102,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0030;Name=USA300HOU_pUSA300HOUMR0030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0030
-53,CP000731.1,Genbank,CDS,24494,25102,.,+,0,ID=cds-ABX30726.1;Parent=gene-USA300HOU_pUSA300HOUMR0030;Dbxref=NCBI_GP:ABX30726.1;Name=ABX30726.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0030;product=Sin recombinase;protein_id=ABX30726.1;transl_table=11
-54,CP000731.1,Genbank,gene,25348,25680,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0031;Name=USA300HOU_pUSA300HOUMR0031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0031
-55,CP000731.1,Genbank,CDS,25348,25680,.,+,0,ID=cds-ABX30727.1;Parent=gene-USA300HOU_pUSA300HOUMR0031;Dbxref=NCBI_GP:ABX30727.1;Name=ABX30727.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0031;product=hypothetical protein;protein_id=ABX30727.1;transl_table=11
-56,CP000731.1,Genbank,gene,25692,25877,.,+,.,ID=gene-USA300HOU_pUSA300HOUMR0032;Name=USA300HOU_pUSA300HOUMR0032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0032
-57,CP000731.1,Genbank,CDS,25692,25877,.,+,0,ID=cds-ABX30728.1;Parent=gene-USA300HOU_pUSA300HOUMR0032;Dbxref=NCBI_GP:ABX30728.1;Name=ABX30728.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0032;product=possible transcriptional regulator;protein_id=ABX30728.1;transl_table=11
-58,CP000731.1,Genbank,gene,26104,26847,.,-,.,ID=gene-USA300HOU_pUSA300HOUMR0033;Name=USA300HOU_pUSA300HOUMR0033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=USA300HOU_pUSA300HOUMR0033
-59,CP000731.1,Genbank,CDS,26104,26847,.,-,0,ID=cds-ABX30729.1;Parent=gene-USA300HOU_pUSA300HOUMR0033;Dbxref=NCBI_GP:ABX30729.1;Name=ABX30729.1;gbkey=CDS;locus_tag=USA300HOU_pUSA300HOUMR0033;product=partitioning protein;protein_id=ABX30729.1;transl_table=11
+chr,source,feature,start,stop,x,strand,y
+CP000731.1,Genbank,region,1,27041,.,+,.
+CP000731.1,Genbank,gene,232,1215,.,+,.
+CP000731.1,Genbank,CDS,232,1215,.,+,0
+CP000731.1,Genbank,pseudogene,1235,1516,.,+,.
+CP000731.1,Genbank,gene,2071,2220,.,+,.
+CP000731.1,Genbank,CDS,2071,2220,.,+,0
+CP000731.1,Genbank,gene,2388,3080,.,-,.
+CP000731.1,Genbank,CDS,2388,3080,.,-,0
+CP000731.1,Genbank,gene,3190,3384,.,+,.
+CP000731.1,Genbank,CDS,3190,3384,.,+,0
+CP000731.1,Genbank,gene,3868,4035,.,+,.
+CP000731.1,Genbank,CDS,3868,4035,.,+,0
+CP000731.1,Genbank,gene,4500,5117,.,+,.
+CP000731.1,Genbank,CDS,4500,5117,.,+,0
+CP000731.1,Genbank,gene,5136,5483,.,+,.
+CP000731.1,Genbank,CDS,5136,5483,.,+,0
+CP000731.1,Genbank,pseudogene,5904,6847,.,-,.
+CP000731.1,Genbank,gene,6971,7390,.,+,.
+CP000731.1,Genbank,CDS,6971,7390,.,+,0
+CP000731.1,Genbank,gene,7916,8761,.,-,.
+CP000731.1,Genbank,CDS,7916,8761,.,-,0
+CP000731.1,Genbank,gene,8868,10625,.,+,.
+CP000731.1,Genbank,CDS,8868,10625,.,+,0
+CP000731.1,Genbank,gene,10615,10995,.,+,.
+CP000731.1,Genbank,CDS,10615,10995,.,+,0
+CP000731.1,Genbank,gene,11259,11837,.,+,.
+CP000731.1,Genbank,CDS,11259,11837,.,+,0
+CP000731.1,Genbank,gene,12060,12245,.,-,.
+CP000731.1,Genbank,CDS,12060,12245,.,-,0
+CP000731.1,Genbank,gene,12507,13181,.,+,.
+CP000731.1,Genbank,CDS,12507,13181,.,+,0
+CP000731.1,Genbank,pseudogene,13350,13921,.,-,.
+CP000731.1,Genbank,gene,14197,14991,.,-,.
+CP000731.1,Genbank,CDS,14197,14991,.,-,0
+CP000731.1,Genbank,gene,15084,15614,.,-,.
+CP000731.1,Genbank,CDS,15084,15614,.,-,0
+CP000731.1,Genbank,pseudogene,15611,16246,.,-,.
+CP000731.1,Genbank,gene,16387,17061,.,-,.
+CP000731.1,Genbank,CDS,16387,17061,.,-,0
+CP000731.1,Genbank,pseudogene,17091,17294,.,-,.
+CP000731.1,Genbank,gene,17308,18045,.,-,.
+CP000731.1,Genbank,CDS,17308,18045,.,-,0
+CP000731.1,Genbank,gene,18038,18958,.,-,.
+CP000731.1,Genbank,CDS,18038,18958,.,-,0
+CP000731.1,Genbank,pseudogene,19083,19964,.,-,.
+CP000731.1,Genbank,pseudogene,19961,20326,.,+,.
+CP000731.1,Genbank,gene,20396,21070,.,-,.
+CP000731.1,Genbank,CDS,20396,21070,.,-,0
+CP000731.1,Genbank,gene,21544,23010,.,+,.
+CP000731.1,Genbank,CDS,21544,23010,.,+,0
+CP000731.1,Genbank,gene,23109,24008,.,+,.
+CP000731.1,Genbank,CDS,23109,24008,.,+,0
+CP000731.1,Genbank,gene,24494,25102,.,+,.
+CP000731.1,Genbank,CDS,24494,25102,.,+,0
+CP000731.1,Genbank,gene,25348,25680,.,+,.
+CP000731.1,Genbank,CDS,25348,25680,.,+,0
+CP000731.1,Genbank,gene,25692,25877,.,+,.
+CP000731.1,Genbank,CDS,25692,25877,.,+,0
+CP000731.1,Genbank,gene,26104,26847,.,-,.
+CP000731.1,Genbank,CDS,26104,26847,.,-,0
