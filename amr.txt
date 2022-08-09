@@ -1,0 +1,6 @@
+chr,source,feature,start,stop,x,strand,y,gene
+CP000731.1,Genbank,CDS,4500,5117,.,+,0,cadR
+CP000731.1,Genbank,CDS,5136,5483,.,+,0,cadX
+CP000731.1,Genbank,CDS,7916,8761,.,-,0,blaZ
+CP000731.1,Genbank,CDS,8868,10625,.,+,0,blaR
+CP000731.1,Genbank,CDS,10615,10995,.,+,0,blaI
