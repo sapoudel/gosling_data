@@ -1,4 +1,4 @@
-	start	end	contig	strand
+	start	end	strand	contig
 0	348612	348642	-	1280pt3350_1
 1	348638	348668	+	1280pt3350_1
 2	2536174	2536219	+	1280pt3350_1
